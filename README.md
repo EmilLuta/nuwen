@@ -1,6 +1,6 @@
 # Nuwen
 
-*After a few beers*
+*After one too many beers...*
 
 > So Zero Knowledge is hard right? What if it weren't?
 
